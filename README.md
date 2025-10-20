@@ -1,4 +1,4 @@
-# 🧠 Municipal Bylaw Q&A Extraction using DistilBERT
+# Municipal Bylaw Q&A Extraction using DistilBERT
 
 ## Overview
 This project demonstrates how **machine learning** can automatically find answers to typical regulatory or bylaw questions from publicly available PDF and webpage documents — without the need for manual keyword search or paid APIs.
