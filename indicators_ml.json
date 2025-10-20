@@ -1,0 +1,38 @@
+{
+  "source_pdf": "https://www.victoria.ca/media/file/short-term-rental-regulation-bylaw-18-036-0",
+  "requires_license": {
+    "value": true,
+    "confidence": 0.842,
+    "answer_span": "Bylaw",
+    "evidence": "A person applying for the issuance or renewal of a licence to operate a short-term rental must, in addition to meeting the requirements of the Business Licence Bylaw:",
+    "source": "https://www.victoria.ca/media/file/short-term-rental-regulation-bylaw-18-036-0"
+  },
+  "principal_residence_only": {
+    "value": true,
+    "confidence": 0.423,
+    "answer_span": "provide evidence, satisfactory to the Licence Inspector",
+    "evidence": "provide evidence, satisfactory to the Licence Inspector, that the premises where the short-term rental will be operated are the operator’s principal residence.",
+    "source": "https://www.victoria.ca/media/file/short-term-rental-regulation-bylaw-18-036-0"
+  },
+  "display_license_on_listing": {
+    "value": true,
+    "confidence": 0.246,
+    "answer_span": "advertising, listing, or promotion material",
+    "evidence": "A person may offer to rent premises for rent as a short-term rental only if a valid business licence number is included in any advertising, listing, or promotion material that is intended to communicate availability of the premises for short-term rental.",
+    "source": "https://www.victoria.ca/media/file/short-term-rental-regulation-bylaw-18-036-0"
+  },
+  "provincial_registration_required": {
+    "value": true,
+    "confidence": 0.306,
+    "answer_span": "short-term rental bylaws",
+    "evidence": "Once your BC Registries Account has been approved and you receive the confirmation email, click \"Apply now\" on this page to log in using your BCeID and two-factor authentication Enter your short-term rental address to confirm the supporting documentation you will need to provide to register Enter all required information and upload your supporting documents Pay a fee by credit card and submit your application your registration number local government business license number (if required), and th…",
+    "source": "https://www2.gov.bc.ca/gov/content/housing-tenancy/short-term-rentals/registry/host-registration"
+  },
+  "max_entire_home_nights": {
+    "value": 160,
+    "confidence": 0.724,
+    "answer_span": "160",
+    "evidence": "While you are away, you can rent your entire unit for no more than 160 nights in a calendar year.",
+    "source": "https://www.victoria.ca/building-business/business-licensing/short-term-rentals"
+  }
+}
